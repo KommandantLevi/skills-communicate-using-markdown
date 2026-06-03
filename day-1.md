@@ -2,6 +2,8 @@
 
 ## Morning Planning
 
+<img alt="Make everyone happy" src="https://octodex.github.com/images/poptocat_v2.png" width="100" align="right">
+
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
